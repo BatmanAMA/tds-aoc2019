@@ -5,7 +5,7 @@ Advent of Code 2019
 
 Up top, click "Fork" then use the repo it creates to work on every day's problem. I will be doing all my work in the top level. Inputs should be named input.dayx and outputs should be named output.dayx for clarity.
 
-# List of days and links to the eventual location that the article will be at.
+# List of days and links
 1. [Day 1](https://adventofcode.com/2019/day/1)
 1. [Day 2](https://adventofcode.com/2019/day/2)
 1. [Day 3](https://adventofcode.com/2019/day/3)
